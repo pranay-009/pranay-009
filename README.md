@@ -4,7 +4,10 @@
 - Currently I am working on applications of GAN 🎨
 - 📫 Reach me pranaysaha61@gmail.com
 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranay-009)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranay-009)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 
 pranay-009/pranay-009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
