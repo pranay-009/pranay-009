@@ -6,17 +6,17 @@ Here on my GitHub profile, you will find my projects and code related to machine
 
 Some of my current areas of interest include:
 
-- 🖼️Exploring Generative AI models specially in the field of Computer Vision
+- 🖼️Exploring Generative AI models, especially in the field of Computer Vision
 - 🔍I am looking to contribute to some Open Source projects 
 - 🎨Currently I am learning about GANS and Diffusers
 
-If you are interested in any of these areas, please feel free to explore my repositories and projects. I am always open to collaboration and sharing knowledge with others.
+If you are interested in these areas, please explore my repositories and projects. I am always open to collaboration and sharing knowledge with others.
 
 ## Contact Details
 
 - Email: [pranaysaha61@gmail.com](mailto:pranaysaha61@gmail.com)
 - LinkedIn: [Pranay Saha](https://www.linkedin.com/in/pranaysaha-/)
 
-Thank you for visiting my profile! If you have any questions or suggestions, please don't hesitate to reach out.
-Feel free to reach out if you have any questions or if you want any collaboration or need assistance with projects involving Machine Learining.
+Thank you for visiting my profile!
+Feel free to reach out if you have any questions, want any collaboration, or need assistance with projects involving Machine learning.
 
