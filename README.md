@@ -8,7 +8,7 @@ Some of my current areas of interest include:
 
 - 🖼️Exploring Generative AI models, especially in the field of Computer Vision
 - 🔍I am looking to contribute to some Open Source projects 
-- 🎨Currently I am learning about GANS and Diffusers
+
 
 If you are interested in these areas, please explore my repositories and projects. I am always open to collaboration and sharing knowledge with others.
 
